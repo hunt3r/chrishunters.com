@@ -12,15 +12,18 @@ define([
     	},
       summary : function(limit) {
         var html = this.get("html");
-        var $html = $(html);
+        var $html = $(html).find("p");
         var summary = "";
         var currentSize = 0;
-
+        
         $.each($html, function(i, tag) {
-          if(tag.outerHTML && currentSize + tag.outerHTML.length < limit) {
+          if(currentSize + tag.outerHTML.length < limit) {
             summary += tag.outerHTML;
             currentSize += tag.outerHTML.length
-            log(summary);
+          }
+          if(currentSize == 0 && tag.outerHTML.length > limit) {
+            tag.innerHTML = tag.innerHTML.substring(0, limit);
+            summary = tag.outerHTML;
           }
         });
 
