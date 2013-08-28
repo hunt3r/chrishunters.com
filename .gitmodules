@@ -1,0 +1,3 @@
+[submodule "mongodown"]
+	path = mongodown
+	url = git@github.com:hunt3r/MongoDown.git
