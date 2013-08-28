@@ -1,12 +1,10 @@
---tag:
-layout: post
+type: project
 title: Some imagacache presets
 created: 2010-01-17 12:58:21 -05:00
 categories: 
 tag:Imagecache
 tag:Drupal
 tag:MySQL
----
 <p>I use the following SQL to get some quick presets up and rolling.&nbsp; I know this can be cleaner, but it works for many smaller sites I do.&nbsp; Just dump this into an SQL statement in Phpmyadmin or from the command line.</p><p>{% codeblock %}SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 

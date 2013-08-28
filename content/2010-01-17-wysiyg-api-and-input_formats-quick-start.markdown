@@ -1,11 +1,9 @@
---tag:
-layout: post
+type: project
 title: Wysiyg API and Input_formats quick start
 created: 2010-01-17 13:15:44 -05:00
 categories: 
 tag:Drupal
 tag:MySQL
----
 <p>{% codeblock %}-tag:phpMyAdmin SQL Dump
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";

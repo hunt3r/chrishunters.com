@@ -1,5 +1,4 @@
---tag:
-layout: post
+type: project
 title: Taxonomy data as term view header
 created: 2009-12-22 12:16:12 -05:00
 categories: 
@@ -8,7 +7,6 @@ tag:Programming
 tag:PHP
 tag:MySQL
 tag:Drupal
----
 <p>If you would like to create a page view that takes a term id as an argument (like my technology, portfolio pages), You can use the following code in the header of the Views 2 Taxonomy Term view.</p><p>{% codeblock %}&lt;?php
  
   $view = views_get_current_view();

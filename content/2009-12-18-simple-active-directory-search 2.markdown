@@ -1,12 +1,10 @@
---tag:
-layout: post
+type: project
 title: Simple Active Directory Search
 created: 2009-12-18 19:17:10 -05:00
 categories: 
 tag:LDAP
 tag:C#
 tag:Windows Server
----
 <p>&nbsp;</p><p>{% codeblock %}//Check to see if this user exists
 public bool UserExists(string username)
 {

@@ -1,5 +1,4 @@
---tag:
-layout: post
+type: project
 title: Backing up w/ Drush
 created: 2009-12-29 00:07:19 -05:00
 categories: 
@@ -9,7 +8,6 @@ tag:MySQL
 tag:Linux
 tag:Drupal
 tag:Drush
----
 <p><a href="http://drupal.org/project/drush" target="_blank">Drush,</a> my favorite new tool, is proving to be quite useful.&nbsp; Drush saves you time by picking up your connection string from the sites settings.php folder that you're backing up, you no longer need to configure each backup script individually.&nbsp; </p><p>sample usage for this script would be:</p><p>bash backup.sh /full/path/to/drupal/site &lt;optional&gt; archive_prefix &lt;optional&gt; #of days to keep archives for</p><p>That's it!&nbsp; You do need to configure the script to your servers paths for where you want the backups to be stored, and where drush is located.</p><p>Here's the command I'm calling for my cron jobs</p><p>bash /home/user/workspace/utils/backup.sh /home/user/www/site site_name 4</p><p>&nbsp;</p><p>{% codeblock %}#!/bin/bash
 # 
 # Copyright (c) 2009 Chrishunters.com
