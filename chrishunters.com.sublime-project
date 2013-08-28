@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"sample-webapp", "venv"
+			],
+			"path": "/Users/hunter/projects/chrishunters.com"
+		}
+	]
+}

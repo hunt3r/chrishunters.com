@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"W",
+				"WORKSPACE_FOLDER"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/hunterc1/Dropbox/SublimeProjects/MongoDown.sublime-project",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mongodown/settings_local.py",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mongodown/mongodown.py",
+			"settings":
+			{
+				"buffer_size": 2619,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hunterc1/Dropbox/SublimeProjects/MongoDown.sublime-project",
+		"/Users/hunterc1/projects/MongoDown/lib/parse.py",
+		"/Users/hunterc1/projects/MongoDown/webapp/index.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/utils.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/router.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/templates/common/detail.tpl.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/views/common/DetailView.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/templates/common/list.tpl.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/views/common/ListView.js",
+		"/Users/hunterc1/projects/MongoDown/.gitignore",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/main.js",
+		"/Users/hunterc1/projects/chrishunters.com/.gitignore",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/nprogress.js",
+		"/Users/hunterc1/projects/MongoDown/README.md",
+		"/Users/hunterc1/projects/MongoDown/mongodown.py",
+		"/Users/hunterc1/projects/MongoDown/content/2009-12-18-simple-active-directory-search.markdown",
+		"/Users/hunterc1/projects/MongoDown/content/2009-10-27-motocross.markdown",
+		"/Users/hunterc1/projects/MongoDown/models.py",
+		"/Users/hunterc1/projects/MongoDown/settings_local.py",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/views/projects/ProjectListView.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/models/ContentCollection.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/models/ContentModel.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/templates/projects/projectList.tpl.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/views/HomeView.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/backbone-amd-min.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/bootstrap.min.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/underscore-amd-min.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/templates/homeView.tpl.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/views/ProjectsView.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/templates/projects/projectsList.tpl.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/templates/projects/projectDetail.tpl.html",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/app.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/bootstrap.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/backbone-min.js",
+		"/Users/hunterc1/projects/MongoDown/lib/mongo.py",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/text.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/jquery-min.js",
+		"/Users/hunterc1/projects/MongoDown/webapp/img/glyphicons-halflings.png",
+		"/Users/hunterc1/projects/MongoDown/webapp/js/lib/jquery-1.10.2.min.js",
+		"/Users/hunterc1/projects/MongoDown/nginx.conf",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/hunterc1/projects/MongoDown/config.py",
+		"/Users/hunterc1/projects/MongoDown/content/home-item.md",
+		"/Users/hunterc1/projects/MongoDown/content/portfolio1.md",
+		"/usr/local/etc/mongod.conf",
+		"/Users/hunterc1/projects/clojure-koans/src/koans/03_vectors.clj",
+		"/Users/hunterc1/projects/clojure-koans/src/koans/04_sets.clj",
+		"/Users/hunterc1/projects/clojure-koans/src/koans/05_maps.clj",
+		"/Users/hunterc1/projects/clojure-koans/src/koans/02_lists.clj",
+		"/Users/hunterc1/projects/clojure-koans/src/koans/01_equalities.clj",
+		"/Users/hunterc1/projects/clojure-koans/.git/config",
+		"/private/etc/apache2/other/whistler.conf",
+		"/etc/hosts",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/src/main/java/com/urbn/loyalty/service/NitroServiceHandleImpl.java",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/src/main/resources/src/main/java/com/urbn/loyalty/service/NitroServiceHandleImpl.java",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/README.md",
+		"/Users/hunterc1/Downloads/heartcode-canvasloader-min-0.9.1.js",
+		"/Users/hunterc1/Documents/workspace/Servers/Tomcat",
+		"/Users/hunterc1/Documents/workspace/v7.0",
+		"/Users/hunterc1/Documents/workspace/Server",
+		"/Users/hunterc1/Documents/workspace/Servers/Tomcat v7.0 Server at localhost-config/server.xml",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/src/main/java/com/urbn/loyalty/controllers/LoginControllerPage.java",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/src/main/java/com/urbn/loyalty/controllers/HomeControllerPage.java",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/bin/deploy",
+		"/Users/hunterc1/Documents/workspace/Servers/Tomcat v7.0 Server at localhost-config/server.xml\n",
+		"/Users/hunterc1/Documents/workspace/at",
+		"/Users/hunterc1/Documents/workspace/localhost-config/server.xml",
+		"/Users/hunterc1/.bash_profile",
+		"/Users/hunterc1/projects/urbn/uo-ios/Source/UO.xcodeproj/xcshareddata/xcschemes/UOTests.xcscheme",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/static/js/app/templates/templates.js",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/static/js/app/templates/trails.js",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/urls.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/server.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/apps/api/urls.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/apps/api/views.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/templates/base.html",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/static/js/app.js",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/templates/home.html",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/apps/main/views.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/static/css/custom.css",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/apps/main/urls.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/apps/api/__init__.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/MobileApp/www/config.xml",
+		"/Users/hunterc1/Dropbox/WhistlerApp/MobileApp/www/css/index.css",
+		"/Users/hunterc1/Dropbox/WhistlerApp/MobileApp/www/index.html",
+		"/Users/hunterc1/projects/WhistlerApp/api/scrapers.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/MobileApp/www/js/index.js",
+		"/Users/hunterc1/Dropbox/WhistlerApp/jenkins.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/hunterc1/projects/WhistlerApp/api/server.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/api/server.py",
+		"/Users/hunterc1/Dropbox/WhistlerApp/WebApp/settings.py",
+		"/Users/hunterc1/.zshrc",
+		"/Users/hunterc1/Downloads/jquery.mobile-1.3.1/index.html",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyWeb/.gitignore",
+		"/Users/hunterc1/projects/urbn/sublime-projects/LoyaltyWeb.sublime-project",
+		"/Users/hunterc1/temp/errorHandling/ApiException.java",
+		"/Users/hunterc1/temp/errorHandling/GenericController.java",
+		"/Users/hunterc1/temp/errorHandling/ExceptionHandlingController.java",
+		"/Users/hunterc1/Downloads/web-app_3_0.xsd",
+		"/Users/hunterc1/temp/.git/config",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/src/main/webapp/static/css/main.css",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/loyalty.sublime-project",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/.project",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/pom.xml",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/src/test/java/com/urbn/loyalty/test/challenges/TestActionLists.java",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/src/main/java/com/urbn/loyalty/service/NitroServiceHandleImpl.java",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/notes.txt",
+		"/Users/hunterc1/bin/subl",
+		"/usr/local/Cellar/tomcat/7.0.39/libexec/conf/tomcat-users.xml",
+		"/Users/hunterc1/.m2/settings.xml",
+		"/Users/hunterc1/.m2/conf/settings.xml",
+		"/Users/hunterc1/projects/urbn/projects/LoyaltyCustomDataWeb/target/LoyaltyCustomDataWeb-1.0.0-SNAPSHOT.war",
+		"/Users/hunterc1/projects/urbn/projects/AFAmazonS3Client/AFAmazonS3Client/AFAmazonS3Client.m",
+		"/Users/hunterc1/projects/urbn/projects/AFAmazonS3Client/AFAmazonS3Client/AFAmazonS3Client.h",
+		"/Users/hunterc1/projects/urbn/uo-ios/Source/UO.xcodeproj/project.pbxproj",
+		"/Users/hunterc1/projects/urbn/uo-ios/README",
+		"/Users/hunterc1/projects/urbn/SOA/SampleCustomerCreateCall.txt",
+		"/Users/hunterc1/bin/build.sh",
+		"/Users/hunterc1/bin/jenkins",
+		"/Users/hunterc1/projects/urbn/loyalty/FTP-Info.txt",
+		"/Users/hunterc1/projects/urbn/uo-ios/config.json",
+		"/private/etc/apache2/original/httpd.conf",
+		"/Users/hunterc1/bin/shovel.py",
+		"/private/etc/apache2/other/jenkins.conf",
+		"/private/etc/apache2/original/jenkins.conf",
+		"/Users/hunterc1/projects/urbn/iosapp/.gitignore",
+		"/Users/hunterc1/bin/xcodearchive.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"progressBar",
+			"  ",
+			"ListView",
+			"project",
+			"projects",
+			"  ",
+			"projectListTemplate",
+			"homeTemplate",
+			"ProjectsView",
+			"HomeV",
+			"p",
+			"/usr/local	",
+			"createUpdateChallengesURL",
+			"String nitroServiceURLStr",
+			"'",
+			"TestHandler",
+			"Trail",
+			"Challenge",
+			".js",
+			"//",
+			"\nUMA",
+			"UMA",
+			"UMA-115",
+			"ios",
+			"notification",
+			"Notification",
+			"notification",
+			"Notification",
+			"\nUMA",
+			"\")",
+			"(\"",
+			"freemark",
+			"resources",
+			"server",
+			"nitroServiceHandle",
+			"getNitroData",
+			"junit",
+			">>>>",
+			">>>",
+			"<<<",
+			"UMA-",
+			"UMA",
+			"<<<<<<",
+			"\"n\"",
+			"\"y\"",
+			"URBNCustContactNV",
+			"PushAllowed",
+			"APNSToken",
+			"TwitterScreenName",
+			"facebookConnected",
+			"facebookPermissions",
+			"Facebook",
+			"facebook",
+			"Facebook",
+			"FacebookSessionKey",
+			"FacebookAccessToken",
+			"FacbookId",
+			"Social",
+			"name",
+			"APNSTOKEN",
+			"Facebook",
+			"FACEBOOK",
+			"Facebook",
+			"FACEBOOK",
+			"tw",
+			"t",
+			"f",
+			"facbook",
+			"\n",
+			"·         ",
+			",",
+			"=",
+			"|",
+			"--login",
+			"| ${GROWL}",
+			"log",
+			"echo",
+			"GROWL",
+			"growl",
+			"GROWL",
+			"PRODUCT_NAME",
+			"customer sea",
+			"2.",
+			"2.1 ",
+			"kphoen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/hunterc1/Dropbox/SublimeProjects/MongoDown.sublime-project",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mongodown/settings_local.py",
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mongodown/mongodown.py",
+					"settings":
+					{
+						"buffer_size": 2619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.48641923597,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mongo",
+				"mongodown/mongodown.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"utils",
+				"webapp/js/utils.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"models",
+				"models.py"
+			],
+			[
+				"parse",
+				"lib/parse.py"
+			],
+			[
+				"mongod",
+				"mongodown.py"
+			],
+			[
+				"router",
+				"webapp/js/router.js"
+			],
+			[
+				"views.js",
+				"WebApp/static/js/app/views.js"
+			],
+			[
+				"views",
+				"WebApp/apps/api/views.py"
+			],
+			[
+				"template",
+				"WebApp/static/js/app/templates.js"
+			],
+			[
+				"templates",
+				"src/main/webapp/resources/js/templates/templates.js"
+			],
+			[
+				"app",
+				"src/main/webapp/resources/js/app.js"
+			],
+			[
+				"main.js",
+				"src/main/webapp/resources/js/main.js"
+			],
+			[
+				"dispatcher",
+				"LoyaltyCustomDataWeb/src/main/webapp/WEB-INF/dispatcher-servlet.xml"
+			],
+			[
+				"web.xml",
+				"LoyaltyCustomDataWeb/src/main/webapp/WEB-INF/web.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true
+}
