@@ -19,6 +19,7 @@ define([
             'thoughts': 'Thoughts',
             'archives': 'Archives',
             'item/:slug': 'Item',
+            'tag/:tag': 'Tag',
             'home': 'Home',
             '/': 'Home',
             '': 'Home',
@@ -51,6 +52,16 @@ define([
 
         });
         
+
+        /**
+         * By Tag
+         */
+        router.on('route:Tag', function(tag){
+            var query = new Parse.Query(ContentItem);
+            query.containedIn("tag", [tag]);
+            var view = new ListView({"title": tag, "query": query});
+        });
+
         /**
          * My thoughts blog
          */

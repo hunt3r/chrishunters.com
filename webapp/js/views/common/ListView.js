@@ -14,6 +14,20 @@ define(['jquery',
         collection: null,
         progressBar: NProgress,
         query: new Parse.Query(ContentItem),
+        setTags : function() {
+            var self = this;
+            self.tags = [];
+
+            $.each(self.collection, function(i, item) {
+                var tags = item.get("meta").tag;
+                if(tags) {
+                    $.each(tags, function(t, tag) {
+                        if(!_.contains(self.tags, tag))
+                            self.tags.push(tag);
+                    });
+                }
+            });
+        },
         initialize: function(options) {
             var self = this;
             NProgress.start();
@@ -24,6 +38,8 @@ define(['jquery',
             }
 
             this.query.descending("created");
+            
+            this.query.equalTo("published", true);
 
             this.query.find({
                 success: function(results) {
@@ -36,12 +52,16 @@ define(['jquery',
             });
         },
         render: function(){
+            
+            this.setTags();
 
             var compiledTemplate = _.template( template, {"pageTitle": this.options.title || "",
-                                                            "items": this.collection});
+                                                            "items": this.collection,
+                                                            "tags" : this.tags});
             
-            if(_.has(this.options, "title"))
+            if(_.has(this.options, "title")) {
                 Utils.setTitle(this.options.title);
+            }
 
             this.$el.html(compiledTemplate);
             NProgress.done();
