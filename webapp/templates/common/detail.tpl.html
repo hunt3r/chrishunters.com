@@ -1,4 +1,17 @@
 <article>
-    <h1><%= item.get("meta").title %></h1>
+	<header>
+    	<h1><%= item.get("meta").title %></h1>
+    	<p>Published: <time pubdate="pubdate"><%= item.timeago()%></time></p>
+    	<p>
+    	<% _.each(item.get("meta").tag, function(tag) { %>
+    		<span class="label label-primary"><%= tag %></span>
+    	<% }); %>
+    	</p>
+    </header>
+
     <%= item.get("html") %>
+
+    <footer>
+    	
+    </footer>
 </article>
