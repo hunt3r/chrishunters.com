@@ -7,13 +7,13 @@ tag:Powershell
 tag:LDAP
 tag:Code
 
-If you've ever needed to create an LDAP aware powershell script, well you're in luck.&nbsp; You can use any .Net namespace within a powershell script.&nbsp; In this article you will find various functions that I have written to work with an LDAP directory.
+If you've ever needed to create an LDAP aware powershell script, well you're in luck.</p> 
+ You can use any .Net namespace within a powershell script.</p> 
+ In this article you will find various functions that I have written to work with an LDAP directory.
 
 ### Gather all LDAP directory properties into a Hashtable as key/value pairs
 
 The purpose of this function is to return a simple object of key/value pairs that you can reference in other parts of your application without connecting to the directory again.
-
-##add all ldap key/value pairs for a user to a hash
 
 	:::powershell
 	function gatherLDAP

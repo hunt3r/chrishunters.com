@@ -12,7 +12,14 @@ tag:MySQL
 tag:Built on OSX
 tag:PHP
 
-Dragone Construction came to me with a need for a basic website.&nbsp; They wanted to show mostly photos of their work and have some basic information available to perspective clients.&nbsp; I delivered this via J!1.0, JoGadgets, CSS and Illustrator.&nbsp; The end product is a simple yet easy to use website, with an animated gallery.&nbsp;
+Dragone Construction came to me with a need for a basic website. 
+
+They wanted to show mostly photos of their work and have some basic information available to perspective clients. 
+
+I delivered this via J!1.0, JoGadgets, CSS and Illustrator. 
+
+The end product is a simple yet easy to use website, with an animated gallery. 
+
 
 *   J!1.0
 *   Lightbox

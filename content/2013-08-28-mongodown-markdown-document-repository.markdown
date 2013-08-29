@@ -1,10 +1,14 @@
-type: project
-title: MongoDown, a markdown document repository solution
+type: thought
+title: MongoDown a markdown document repository solution
 date: 2013-08-28 12:31
 homepage: true
 tag: MongoDown
 tag: Python
 tag: Javascript
+tag: Open Source
+tag: Markdown
+tag: MongoDb
+tag: Parse.com
 
 ###I like Markdown
 

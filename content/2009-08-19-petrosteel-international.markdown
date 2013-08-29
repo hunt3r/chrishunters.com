@@ -11,13 +11,23 @@ tag:Programming
 tag:Business Development
 tag:Web
 
-Petrosteel International _(Now a division of Edgen Murray Steel)_, formerly of Bala Cynwyd is a full service steel logistics company.&nbsp; With clients all over the world they needed a website that helped them communicate more efficiently with their customers abroad.&nbsp;
+Petrosteel International _(Now a division of Edgen Murray Steel)_, formerly of Bala Cynwyd is a full service steel logistics company.</p> 
+ With clients all over the world they needed a website that helped them communicate more efficiently with their customers abroad.</p> 
 
-One of the top priorities for this project was a website that could support multiple languages in a data driven way.&nbsp; I was able to satisify this using Joomla! and it's vast array of succulent modules for multi-lingual support.&nbsp; JoomlaFish was one of the first modules to be installed.&nbsp; We worked with a writer to translate all of their business concerns into German, Chinese and of course English.
 
-They wanted a template that would work on all legacy browsers, including IE6, which is no easy task.&nbsp; We ended up with 3 variations on their main template, a homepage, category overview, and a detail template.&nbsp; Each retaining a standard header and top level navigation, but opting for 2nd level links to be in the left hand column.&nbsp; We wanted to stay away from drop down menus.&nbsp;
+One of the top priorities for this project was a website that could support multiple languages in a data driven way.</p> 
+ I was able to satisify this using Joomla! and it's vast array of succulent modules for multi-lingual support.</p> 
+ JoomlaFish was one of the first modules to be installed.</p> 
+ We worked with a writer to translate all of their business concerns into German, Chinese and of course English.
 
-We made a custom Flex calculator to aide their customers in their calculations on weight and density, abrasion resistence, etc...&nbsp; Pretty cool stuff!
+They wanted a template that would work on all legacy browsers, including IE6, which is no easy task.</p> 
+ We ended up with 3 variations on their main template, a homepage, category overview, and a detail template.</p> 
+ Each retaining a standard header and top level navigation, but opting for 2nd level links to be in the left hand column.</p> 
+ We wanted to stay away from drop down menus.</p> 
+
+
+We made a custom Flex calculator to aide their customers in their calculations on weight and density, abrasion resistence, etc...</p> 
+ Pretty cool stuff!
 
 *   Advanced Joomla! configuration
 *   3 Custom Templates

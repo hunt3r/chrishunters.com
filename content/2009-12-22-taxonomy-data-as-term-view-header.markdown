@@ -21,4 +21,5 @@ tag:Drupal
           "&lt;/div&gt;&lt;p&gt;". $t-&gt;description.
                                    "&lt;/p&gt;&lt;/div&gt;&lt;div class='clear-block'&gt;&amp;nbsp;&lt;/div&gt;");
 
-?&gt;{% endcodeblock %}</p><p>I realize the formatting of this code is not ideal, but you get the idea.&nbsp; The logic flows like:</p><ol><li>Get the $view object</li><li>Create a static int var of the first term argument</li><li>Get the full taxonomy term object</li><li>Get the taxonomy_image object and imagecache preset from the<a href="http://drupal.org/node/220844" target="_blank"> taxonomy_image_display()</a> call</li><li>Finally I just call an echo command and style it a little bit.</li></ol>
+?&gt;{% endcodeblock %}</p><p>I realize the formatting of this code is not ideal, but you get the idea.</p> 
+ The logic flows like:</p><ol><li>Get the $view object</li><li>Create a static int var of the first term argument</li><li>Get the full taxonomy term object</li><li>Get the taxonomy_image object and imagecache preset from the<a href="http://drupal.org/node/220844" target="_blank"> taxonomy_image_display()</a> call</li><li>Finally I just call an echo command and style it a little bit.</li></ol>
