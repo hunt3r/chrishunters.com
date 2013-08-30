@@ -9,6 +9,7 @@ tag: Open Source
 tag: Markdown
 tag: MongoDb
 tag: Parse.com
+gallery: mongodown-gallery
 
 ###I like Markdown
 
@@ -20,3 +21,20 @@ There are a bunch of static site generators out there that produce static docume
 
 - Python
 - Parse.com
+
+###Uploading files to parse
+
+Part of mongodown is the ability to create image galleries if you so desire.  
+
+I used this block of code to iterate over presets that are defined to resize thumbnails or other needed assets for a given photo
+
+	data = open(f.output_file, 'rb')
+	headers = {
+	    'X-Parse-Application-Id': self.settings["parse"]["application_id"],
+	    'X-Parse-REST-API-Key': self.settings["parse"]["rest_api_key"],
+	    'content-type': "image/jpeg"
+	}
+	                   url = "%s/%s" % (self.settings["parse"]["rest_file_url"], f.filename)
+	r = requests.post(url, data=data, headers=headers)
+
+

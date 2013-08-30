@@ -3,13 +3,32 @@
     	<h1><%= item.get("meta").title %></h1>
     	<p>Published: <time pubdate="pubdate"><%= item.timeago()%></time></p>
     	<p>
+        <p>
+        <% if(gallery) { %>
+            <img src="<%= gallery.photos[0].slider.url %>" />
+        <%}%>
+        </p>
     	<% _.each(item.get("meta").tag, function(tag) { %>
     		<span class="label label-primary"><%= tag %></span>
     	<% }); %>
     	</p>
     </header>
-
     <%= item.get("html") %>
+    <div class="gallery">
+        <% if(gallery) { %>
+
+        <div class="row">
+            <% _.each(gallery.photos, function(photoset) { %>
+              <div class="col-sm-6 col-md-3">
+                <a href="<%= photoset.large.url %>" class="thumbnail">
+                  <img src="<%= photoset.thumb.url %>" width=<%= photoset.thumb.width %> height=<%= photoset.thumb.height %> />
+                </a>
+              </div>
+           <% }); %>
+        </div>
+
+        <%}%>
+    </div>
 
     <footer>
     	

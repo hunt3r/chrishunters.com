@@ -39,10 +39,14 @@ define([
         }
       });
     },
+
     render: function(){
       var self = this;
       Utils.setTitle(self.model.get("title"));
-      var compiledTemplate = _.template(template, {"item": self.model });
+      
+      var gallery = self.model.get("gallery") || null;
+      var compiledTemplate = _.template(template, {"item": self.model,
+                                                   "gallery": gallery });
       this.$el.html(compiledTemplate);
       NProgress.done();
     }
