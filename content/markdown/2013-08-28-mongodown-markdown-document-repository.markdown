@@ -1,6 +1,6 @@
 type: thought
 title: MongoDown a markdown document repository solution
-date: 2013-08-28 12:31
+created: 2013-08-28 12:31
 homepage: true
 tag: MongoDown
 tag: Python
@@ -10,6 +10,7 @@ tag: Markdown
 tag: MongoDb
 tag: Parse.com
 gallery: mongodown-gallery
+
 
 ###I like Markdown
 

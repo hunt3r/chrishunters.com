@@ -4,3 +4,4 @@ venv
 nginx
 nohup.out
 .gallery_cache
+.mongodown
