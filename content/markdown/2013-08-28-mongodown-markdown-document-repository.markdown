@@ -9,6 +9,7 @@ tag: Open Source
 tag: Markdown
 tag: MongoDb
 tag: Parse.com
+aspot: false
 gallery: mongodown-gallery
 
 

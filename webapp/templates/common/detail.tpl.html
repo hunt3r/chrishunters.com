@@ -3,8 +3,7 @@
     	<h1><%= item.get("meta").title %></h1>
     	<p>Published: <time pubdate="pubdate"><%= item.timeago()%></time></p>
     	<p>
-        <p>
-        <% if(gallery) { %>
+        <% if(gallery && item.get("meta").aspot) { %>
             <img src="<%= gallery.photos[0].slider.url %>" />
         <%}%>
         </p>
