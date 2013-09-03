@@ -5,11 +5,11 @@ tag:Web
 tag:MySQL
 tag:PHP
 
-Sparango Line Striping of Cheltonham PA wanted a basic website they could update themselves.</p> 
- They also need a logo and consultations regarding a logo.</p> 
+Sparango Line Striping of Cheltonham PA wanted a basic website they could update themselves.
+ They also need a logo and consultations regarding a logo.
 
 
-The website was built on J!1.0, I launched this site in the fall of 2006.</p> 
+The website was built on J!1.0, I launched this site in the fall of 2006.
  He's received an impressive amount of search driven traffic.
 
 *   Value oriented project
