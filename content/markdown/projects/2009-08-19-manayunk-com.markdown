@@ -6,10 +6,10 @@ tag:Business Development
 tag:Programming
 tag:Web Development
 tag:Apache
-tag:Built on OSX
 tag:Javascript
 tag:MySQL
 tag:PHP
+tag:CSS
 
 Manayunk Development Corporate was looking for a way to manage their directory of supporting businesses. They wanted to create a prefered directory for these companies to be listed. After some research, I again settled on Joomla as having the most flexible module selection for their basic business needs.
 
