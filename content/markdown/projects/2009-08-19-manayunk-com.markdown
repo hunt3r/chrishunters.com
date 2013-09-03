@@ -21,4 +21,4 @@ As a subcontractor of Lauren Innella of [Innella Design Studio](http://www.innel
 *   Weather
 *   Newsletter Manager
 
-This client has managed the site since 2006, and I have not been involved with it since it launched. Several web designers have done some major damage to it, and it looks pretty bad right now!
+This client has managed the site since 2006, and I have not been involved with it since it launched. Several web designers have done some major damage to it.  
