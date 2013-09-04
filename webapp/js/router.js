@@ -21,7 +21,7 @@ define([
             'item/:slug': 'Item',
             'tag/:tag': 'Tag',
             'home': 'Home',
-            '/': 'Home',
+            '': 'Home',
             '': 'Home',
             
             // Default
@@ -29,6 +29,25 @@ define([
         }
     });
     
+    $(document).on("click", "a[href^='/']", function(event) {
+        var href = $(event.currentTarget).attr('href');
+
+        //chain 'or's for other black list routes
+        var passThrough = (href.indexOf('/api') >= 0) ? true : false;
+
+        // Allow shift+click for new tabs, etc.
+        if(passThrough && !event.altKey && !event.ctrlKey && !event.metaKey && !event.shiftKey) {
+            event.preventDefault();
+        }
+        //Remove leading slashes and hash bangs (backward compatablility)
+        var url = href.replace(/^\//,'').replace('\#','');
+
+        //Instruct Backbone to trigger routing events
+        AppRouter.navigate(url, { trigger: true });
+
+        return false;
+    });
+
     var initialize = function(){
 
         var router = new AppRouter;
