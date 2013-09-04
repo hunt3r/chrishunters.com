@@ -5,6 +5,7 @@ categories:
 tag:Radness
 tag:MTB
 tag:PMBA
+gallery: mtb/intro-to-mtb
 
 I've been highly involved in the Philadelphia mountain biking community for about 4 years now.
 

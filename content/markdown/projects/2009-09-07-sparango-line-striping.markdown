@@ -4,7 +4,7 @@ type: project
 tag:Web
 tag:MySQL
 tag:PHP
-
+gallery:projects/sparango
 Sparango Line Striping of Cheltonham PA wanted a basic website they could update themselves.
  They also need a logo and consultations regarding a logo.
 

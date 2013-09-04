@@ -5,6 +5,7 @@ categories:
 tag:Web Development
 tag:Web Design
 tag:Consulting
+gallery: projects/biketemple
 
 Bike Temple is a University-wide program to promote bicycle use by Temple students, faculty, and staff.
  

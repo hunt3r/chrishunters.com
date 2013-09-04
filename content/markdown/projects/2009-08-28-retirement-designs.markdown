@@ -12,6 +12,7 @@ tag:Javascript
 tag:Joomla!
 tag:MySQL
 tag:PHP
+gallery:projects/retirementdesigns
 
 Retirement Designs was referred to me by an associate. On their 3rd website in five years, they were really in need of a site that fit their budget given the expense they'd already absorbed. 
 

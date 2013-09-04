@@ -7,11 +7,7 @@ tag:Web
 tag:Graphic Design
 tag:Web Design
 tag:Business Development
-tag:Javascript
-tag:MySQL
-tag:PHP
-tag:Apache
-tag:Drupal
+gallery:projects/kokopellisearth
 
 Sometimes I get requests from friends to help them with a business they're trying to get started.  Often times when someone is considering how to get going, one of the first bullet points is "Create a basic website".  I met with my friend and helped him figure out what pieces of his business process he could efficiently and feasibly do within his budget. In this discussion it became clear that as a art and music venue he needed to:
 

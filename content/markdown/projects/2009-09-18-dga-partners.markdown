@@ -5,10 +5,7 @@ categories:
 tag:Web
 tag:Programming
 tag:Web Development
-tag:Apache
-tag:Javascript
-tag:Joomla!
-tag:PHP
+gallery:projects/dgapartners
 
 DGA Partners, healthcare management professionals is a full service management consulting firm, in Philadelphia.
 
@@ -20,5 +17,5 @@ I worked with their design/content people to implement their ideas.
 
 * CMS
 * Custom Templates 
-* CSS/Javascript 
+* CSS/Javascript for user interactions
 * Server setup

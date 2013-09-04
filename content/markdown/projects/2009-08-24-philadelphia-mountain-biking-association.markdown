@@ -2,22 +2,12 @@ layout: post
 title: Philadelphia Mountain Biking Association
 created: 2009-08-24 17:11:00 -04:00
 categories: 
-tag:Programming
-tag:Print Design
-tag:Business Development
-tag:PHP
-tag:MySQL
-tag:Linux
-tag:Joomla!
-tag:Javascript
-tag:Drupal
-tag:C#
-tag:Apache
 tag:Web Design
 tag:Web Development
 tag:Non-Profit
 tag:Print
 tag:Web
+gallery:projects/pmba
 
 PMBA, a chartered IMBA chapter club, is a charitable non-profit 501(c)(3) organization based in Philadelphia Pennsylvania.
 

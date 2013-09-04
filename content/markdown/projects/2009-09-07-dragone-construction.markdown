@@ -5,12 +5,7 @@ tag:Web
 tag:Business Development
 tag:Web Design
 tag:Web Development
-tag:Apache
-tag:Javascript
-tag:Joomla!
-tag:MySQL
-tag:Built on OSX
-tag:PHP
+gallery:projects/dragoneconstruction
 
 Dragone Construction came to me with a need for a basic website. 
 

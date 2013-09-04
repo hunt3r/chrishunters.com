@@ -3,7 +3,7 @@ created: 2009-10-27 18:20:53 -04:00
 tag: Motocross
 tag: History
 type: thought
-gallery: my-moto-history
+gallery: motocross/my-moto-history
 aspot: true
 
 I decided to round up a bunch of the photos from my motocross racing days and put them up in a gallery. I put them in Chronological order with captions, the captions are viewable on each photo.
